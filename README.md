@@ -1,2 +1,2 @@
 # js_project
-just a simple js project
+just a simple java script project
