@@ -1,2 +1,2 @@
-# js_project
-Just a simple java script project.
+# web_dev
+Just a simple web development repo.
