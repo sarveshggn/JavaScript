@@ -8,8 +8,8 @@
 
 var firstName = prompt("What is your first name? ").toLowerCase();
 var lastName = prompt("What is your last name? ").toLowerCase();
-var age = prompt("Enter your age :");
-var height = prompt("Enter your height :");
+var age = prompt("Enter your age in years:");
+var height = prompt("Enter your height in cms:");
 var pet = prompt("What is your pet name? ");
 var len = pet.length
 
