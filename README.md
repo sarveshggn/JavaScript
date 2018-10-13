@@ -1,2 +1,2 @@
-# web_dev
-Just a simple web development repo.
+# JavaScript
+Just a simple java script repo.
